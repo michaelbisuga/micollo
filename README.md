@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micollo
 - 👀 I’m interested in hacking and coffee
 - 🌱 I’m currently learning web security
-- 💞️ I’m looking to collaborate on cybesecurity projects, toolas and everything involved
+- 💞️ I’m looking to collaborate on cybesecurity projects, tools and everything involved
 - 📫 How to reach me mikebisuga@outlook.com
 
 <!---
